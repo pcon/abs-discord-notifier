@@ -1,0 +1,21 @@
+{
+    "audiobookshelf": {
+        "server": "https://server.example.com",
+        "baseurl": "/",
+        "token": "aabbccddee",
+        "library": {
+            "default": "aa-bb-cc-dd"
+        }
+    },
+    "storage": {
+        "type": "json",
+        "json": {
+            "filename": "data/settings.json"
+        },
+        "cache": "data/cache/"
+    },
+    "discord": {
+        "webhookurl": "https://discord.com/api/webhooks/aaaa/bbbbbb",
+        "maxresults": 5
+    }
+}
