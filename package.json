@@ -4,7 +4,7 @@
   "description": "A script to pull the latest books from Audiobookshelf and send a notification to a Discord webhook",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scan": "node index.js"
   },
   "author": "Patrick Connelly (patrick@connelly.dev)",
   "license": "GPL-3.0-or-later",
